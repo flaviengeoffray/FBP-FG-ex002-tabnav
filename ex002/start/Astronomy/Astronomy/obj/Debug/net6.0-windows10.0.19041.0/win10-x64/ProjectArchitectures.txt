@@ -1,0 +1,1 @@
+C:\FG\ITS\Framework Based Prog\FBP-FG-ex002-tabnav\ex002\start\Astronomy\Astronomy\Astronomy.csproj;x64
